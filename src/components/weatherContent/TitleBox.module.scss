@@ -1,0 +1,20 @@
+.container {
+  width: 400px;
+  height: 400px;
+  background-image: url("https://ukranews.com/upload/news/2020/08/25/5d9b3a773a138-leaf-3865014-960-720_1200.jpg");
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  color: #ffffff;
+}
+.title {
+  letter-spacing: 4px;
+  font-size: 38px;
+  opacity: 0.8;
+}
+.text {
+  letter-spacing: 4px;
+  font-size: 18px;
+  opacity: 0.8;
+}
